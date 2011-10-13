@@ -205,7 +205,7 @@ if &t_Co > 255
    "hi Normal          ctermfg=252 ctermbg=233
    hi Normal          ctermfg=252
    "hi Comment         ctermfg=59
-   hi Comment         ctermfg=62
+   hi Comment         ctermfg=69
    hi CursorLine                  ctermbg=234   cterm=none
    hi CursorColumn                ctermbg=234
    hi LineNr          ctermfg=250 ctermbg=234
